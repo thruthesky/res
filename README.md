@@ -26,6 +26,15 @@
 
 예) `sonub-terms-ko.txt`
 
+## 기타 정책
+
+- `[도메인]-[기타-정책-코드]-[ln].txt`
+
+예)
+- `sonub-in-app-purchase-policy-ko.txt`
+- `sonub-in-app-purchase-policy-en.txt`
+
+
 ## 이미 만들어진 목록 예
 
 - <a href="./sonub-privacy-ko.txt">Sonub Privacy</a>

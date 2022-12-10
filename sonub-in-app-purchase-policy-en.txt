@@ -1,0 +1,6 @@
+Auto renewal payment and cancellation
+
+• Your purchase of the subscription will automatically renew through the In-App Purchase.
+• You can choose one of the auto-renewal subscriptions: 1 month ($ 0.29), 3 months ($1.49), 6 months ($2.49), 12 months ($4.99).
+• Your subscription will be charged to your In-App Purchase account at confirmation of purchase and will automatically renew at the chosen duration unless auto-renewal is turned off at least 24 hours before the end of current period.
+• Current subscription may not be canceled during the active subscription period; however you can manage your subscription and/or turn off auto-renewal by visiting the Account Settings.
