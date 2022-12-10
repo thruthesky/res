@@ -20,3 +20,9 @@
 - `[도메인]-terms.txt`
 
 위에서 `도메인` 에는 `withcenter`, `philgo`, `sonub` 와 같이 extension 은 빼고 입력. 앱 이름을 입력해도 된다.
+
+
+## 이미 만들어진 목록 예
+
+- <a href="./sonub.privacy.txt">Sonub Privacy</a>
+
