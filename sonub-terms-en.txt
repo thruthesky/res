@@ -1,0 +1,102 @@
+Chapter I General Provisions
+
+Article 1 (Purpose)
+The purpose of this Agreement is to prescribe basic matters concerning the terms and procedures of use of the Social Community Service Sonube (hereinafter referred to as the "Service") operated by Wisener (hereinafter referred to as the "Head Office").
+
+Article 2 (Effect and Change of Terms)
+① These terms and conditions take effect by notifying customers on the login screen and other screens.
+② The head office may change the contents of these Terms and Conditions, and the changed Terms and Conditions shall take effect by announcing or notifying in the same manner as in Paragraph 1.
+
+Article 3 (Definition of Terms)
+The terms used in this Agreement are defined as follows:
+① Member: It refers to an individual or organization that logs in (or joins) to use the services of the headquarters.
+② Applicant: It refers to an individual or organization that applies for membership.
+③ Termination: It refers to the cancellation of the service use contract by the head office or a member.
+
+Chapter 2 Service Use Contracts
+
+Article 4 (Establishment of a Use Contract)
+① By pressing the Accept button at the bottom of the Terms and Conditions, you are considered to accept these Terms and Conditions.
+② The contract of use is established when the site agrees to the application for use after agreeing to the terms and conditions of the service applicant.
+
+Article 5 (Application for Use)
+① In order for the applicant to use this service, he/she must record and submit the user information required by the prescribed form.
+② All user information on the Member Information form is considered to be actual data. Users who do not enter their real names or actual information are not legally protected and may be subject to service restrictions.
+
+Article 6 (Acceptance of application for use)
+① The head office accepts the application for service use to the applicant, except in paragraphs 2 and 3.
+② The headquarters may withhold approval until the grounds for restricting consent for the application are resolved in the following cases:
+A. Where there is no room for service-related facilities;
+B. In case of technical difficulties
+C. Other cases where the head office is deemed necessary;
+③ The head office may refuse the approval of the applicant if:
+A. Where an application is made using the name of another individual (service)
+B. Where an application is made by falsely stating user information;
+C. Where an application is made for the purpose of hindering the well-being order of the society or the good manners and customs of the society;
+D. Where other requirements for application for use of the site are not met;
+
+Article 7 (Change of User Information)
+If the member's information listed at the time of application for use is changed, it must be modified online, and the member is responsible for all problems caused by not changing it.
+
+Chapter III Obligations of Contracting Parties
+
+Article 8 (Duties of Headquarters)
+① The head office provides each member with services.
+A. A service in which a member can communicate with other members within the service
+B. A service that allows members to freely share information through the bulletin board function
+C. A service that allows members to communicate through the chat function
+② The headquarters shall not divulge, disclose, or distribute the personal information of members acquired in connection with the provision of services to others without the consent of the members, and shall not use it for commercial purposes other than service-related business. Provided, That this shall not apply to cases falling under any of the following subparagraphs.
+A. Where there is a request from a state agency pursuant to the provisions of the Act, such as the Framework Act on Telecommunications
+B. Where there is an investigative purpose for a crime or a request from the Information and Communication Ethics Committee;
+C. Where there is a request in accordance with the procedures prescribed by the relevant laws and regulations;
+③ The head office is obligated to provide continuous and stable services in accordance with these terms and conditions.
+
+Article 9 (Obligations of Members)
+① Members shall not engage in the following acts when using the service:
+A. Illegal use of other members' information
+B. Copying information obtained from the service for purposes other than the use of members without prior approval of the headquarters, using it for alteration, publication, broadcasting, or providing it to others
+C. Violation of other rights, such as copyrights of the headquarters, copyrights of others, etc
+D. Dissemination of information, sentences, figures, etc. in violation of public order and customs;
+E. Act objectively deemed to be linked to a crime
+F. Other acts that violate relevant laws and regulations
+② The member shall comply with the relevant laws and regulations, the matters prescribed in these terms and conditions, the service usage guidelines, and precautions.
+③ Members shall comply with the restrictions on use posted on the service notice or separately announced by the site for each content.
+
+Chapter 4 Provision and Use of Services
+
+Article 10 (Member's obligation to manage member login information)
+① The member is responsible for all management of the member login information. The member is solely responsible for all consequences of fraudulent use of membership login.
+② In the event of improper use of your login information or any other security breach, the member must notify the headquarters of the fact.
+
+Article 11 (Restriction and Suspension of Service)
+① The headquarters may restrict or suspend all or part of the service if there is any other force majeure reason, such as suspension of telecommunications services under the Telecommunications Business Act or if there is a possibility of war, accident, natural disaster, or similar national emergency.
+② When the head office restricts or suspends the use of services pursuant to paragraph (1), it shall notify the members of the reasons, the period of restriction, etc. without delay.
+
+Chapter 5 Modification and Termination of Contracts
+
+Article 12 (Change of Information)
+If a member wishes to change customer information, such as address, he/she may change it using the member information change function of the service.
+
+Article 13 (Cancellation of Contracts
+A member may terminate the service use contract, and if he/she cancels it, he/she shall apply for termination to the headquarters through the service himself/herself, by phone or online. The headquarters will restrict the use of the member's service from the day the application for termination is received. If a member intends to terminate the use contract under each of the following paragraphs 1, the headquarters shall notify the customer of the intention and give him/her an opportunity to explain.
+① Where a user violates the restriction regulations or fails to resolve the grounds for restriction within the restriction period;
+② In the case where the Information and Communication Ethics Committee requested the use;
+③ Where a user fails to respond to an opinion statement without justifiable grounds;
+④ Where an application is made in the name of another person or a contract for use is concluded by attaching false entries or false documents
+The headquarters may restrict the subscription of customers who have been terminated under the above regulations for a separately prescribed period.
+
+Chapter VI Compensation for Damages
+
+Article 14 (Disclaimer)
+① The headquarters is exempted from liability for damages caused by the member's failure to obtain the expected benefits from the provision of the service or the selection or use of the service materials.
+② The headquarters is exempted from liability if the service is disrupted or the member's data is damaged due to reasons attributable to the member or the intention of a third party.
+③ The head office is exempt from responsibility for the contents of the material posted or transmitted by the member.
+④ If trademark or copyrighted content is uploaded or transmitted, the member party is responsible for any damage or compensation that may occur, and the head office is not responsible for it.
+⑤ HQ is not responsible for any issues arising between the Project Client and the Developer.
+
+Article 15 (Court of Jurisdiction)
+In the event of a dispute between the headquarters and its members regarding the service, the court having jurisdiction over the location of the headquarters shall be the competent court.
+
+[Extract]
+
+(Effective Date) These terms and conditions will take effect from October 23, 2022.
