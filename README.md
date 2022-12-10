@@ -2,7 +2,7 @@
 
 각종 정책을 모아서 URL 로 오픈하는 Repo. 정책은 단순히 약관이나, 개인정보 보호 외에도, 결제와 관련된 금액, 환불 등의 모든 정책이 다 포함된다.
 
-홈페이지: https://thruthesky.github.io/policy/xxxx
+홈페이지: <a href="https://github.com/thruthesky/policy">Policy 홈페이지</a>에 접속하면, 어떤 정책 파일들이 만들어져 있는지 보고 참고 할 수 있다.
 
 ## 형식
 
