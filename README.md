@@ -1,6 +1,14 @@
-# policy
+# Resource
 
-각종 정책을 모아서 URL 로 오픈하는 Repo. 정책은 단순히 약관이나, 개인정보 보호 외에도, 결제와 관련된 금액, 환불 등의 모든 정책이 다 포함된다.
+- 각종 이미지나 Policy 를 모아 놓은 공개 repo. 이미지를 Firestore 에 등록하거나 웹에 등록하기 어려운 경우가 있다. Firestore 에 등록하면 토큰이 사라지거나 이상하게 preview 가 안되는 경우가 발생한다. 또한 FF 의 경우, 임의의 이미지(파일)를 서버에 deploy 하기가 어렵다.
+
+# Image
+
+- `/img` 폴더에 각종 이미지를 저장한다.
+
+# Policy
+
+- `/policty` 폴더에 각종 정책을 모아서 URL 로 오픈하는 Repo. 정책은 단순히 약관이나, 개인정보 보호 외에도, 결제와 관련된 금액, 환불 등의 모든 정책이 다 포함된다.
 
 홈페이지: [ <a href="https://github.com/thruthesky/policy">Policy repo https://github.com/thruthesky/policy</a> ]에 접속하면, 어떤 정책 파일들이 만들어져 있는지 보고 참고 할 수 있다.
 
