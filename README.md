@@ -2,6 +2,12 @@
 
 - 각종 이미지나 Policy 를 모아 놓은 공개 repo. 이미지를 Firestore 에 등록하거나 웹에 등록하기 어려운 경우가 있다. Firestore 에 등록하면 토큰이 사라지거나 이상하게 preview 가 안되는 경우가 발생한다. 또한 FF 의 경우, 임의의 이미지(파일)를 서버에 deploy 하기가 어렵다.
 
+- Repository 주소: https://github.com/thruthesky/res
+  - 이미지 주소: https://github.com/thruthesky/res/img
+  - Policy 주소: https://raw.githubusercontent.com/thruthesky/res/main/policy/
+
+
+
 # Image
 
 - `/img` 폴더에 각종 이미지를 저장한다.
