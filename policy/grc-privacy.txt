@@ -1,11 +1,11 @@
-<GRC> establishes and discloses personal information processing policies as follows to protect personal information of information subjects and to handle related grievances quickly and smoothly pursuant to Article 30 of the Personal Information Protection Act.
+<Athub> establishes and discloses personal information processing policies as follows to protect personal information of information subjects and to handle related grievances quickly and smoothly pursuant to Article 30 of the Personal Information Protection Act.
 
 ○ This personal information processing policy will be applied from Aug 29, 2023.
 
 
 Article 1 (Purpose of Processing Personal Information)
 
-<GRC> processes personal information for the following purposes: The personal information being processed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the Personal Information Protection Act.
+<Athub> processes personal information for the following purposes: The personal information being processed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the Personal Information Protection Act.
 
 1. Registering and managing membership on the website
 
@@ -19,7 +19,7 @@ We process personal information for the purpose of providing services.
 
 Article 2 (Processing and Retaining Period of Personal Information)
 
-① <GRC> processes and holds personal information within the period of holding and using personal information under the Act or the period of holding and using personal information agreed upon when collecting personal information from the data subject.
+① <Athub> processes and holds personal information within the period of holding and using personal information under the Act or the period of holding and using personal information agreed upon when collecting personal information from the data subject.
 
 ② Each personal information processing and holding period is as follows.
 
@@ -31,7 +31,7 @@ Related Acts and subordinate statutes: Records on the handling of consumer compl
 
 Article 3 (items of personal information to be processed)
 
-① <GRC> is processing the following personal information items:
+① <Athub> is processing the following personal information items:
 
 1<Registration and management of homepage>
 Required items: Email, mobile phone number, name
@@ -41,14 +41,14 @@ Selection: Gender, Date of Birth
 Article 4 (Procedure and Method of Destruction of Personal Information)
 
 
-① <GRC> destroys the personal information without delay when personal information becomes unnecessary, such as the lapse of the personal information retention period and the achievement of the purpose of processing.
+① <Athub> destroys the personal information without delay when personal information becomes unnecessary, such as the lapse of the personal information retention period and the achievement of the purpose of processing.
 
 ② If the personal information retention period agreed by the data subject has elapsed or the purpose of processing has been achieved, the personal information shall be transferred to a separate database (DB) or stored in a different storage place.
 
 
 ③ The procedures and methods of destroying personal information are as follows.
 1. Destruction procedure
-<GRC> selects personal information that causes destruction, and destroys personal information with the approval of <GRC>'s personal information protection manager.
+<Athub> selects personal information that causes destruction, and destroys personal information with the approval of <Athub>'s personal information protection manager.
 
 2. Destruction method
 
@@ -76,13 +76,13 @@ Article 5 (Matters concerning the rights and obligations of the information subj
 
 Article 6 (Matters concerning measures to secure the safety of personal information)
 
-<GRC> is taking the following measures to ensure the safety of personal information.
+<Athub> is taking the following measures to ensure the safety of personal information.
 
 1. Establishing and implementing an internal management plan
 For the safe processing of personal information, an internal management plan is established and implemented.
 
 2. Technical countermeasures against hacking, etc
-To prevent personal information leakage and damage caused by hacking or computer viruses, <GRC> ('Sonaub') installs security programs, updates and inspects regularly, and installs systems in areas where access is controlled from outside, and monitors and blocks them technically/physically.
+To prevent personal information leakage and damage caused by hacking or computer viruses, <Athub> ('Sonaub') installs security programs, updates and inspects regularly, and installs systems in areas where access is controlled from outside, and monitors and blocks them technically/physically.
 
 3. Access control for unauthorized persons
 We have established and operated access control procedures for separately storing personal information.
@@ -119,7 +119,7 @@ Person in charge: Song Jae-ho
 
 Article 10 (Department that receives and processes requests for access to personal information)
 The information subject may request the following departments for access to personal information under Article 35 of the ｢ Personal Information Protection Act.
-<GRC> will try to expedite the request for access to personal information by the information subject.
+<Athub> will try to expedite the request for access to personal information by the information subject.
 
 
 Article 11 (Method of remedy for infringement of rights and interests of information subjects)
@@ -207,9 +207,9 @@ In response to requests under the provisions of Article 35 (Access to Personal I
 ※ Please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr) for details on administrative adjudication.
 
 Article 16 (Matters Regarding the Operation and Management of Video Information Processing Devices)
-① <GRC> installs and operates the following image information processing devices.
+① <Athub> installs and operates the following image information processing devices.
 
-1. Basis/Purpose of Installation of Video Information Processing Equipment: Describes the installation and purpose of the video information processing equipment of <GRC>.
+1. Basis/Purpose of Installation of Video Information Processing Equipment: Describes the installation and purpose of the video information processing equipment of <Athub>.
 
 2. Number of installations, installation location, shooting range:
 Number of installations: 1 unit
